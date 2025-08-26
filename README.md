@@ -1,2 +1,2 @@
 # PROMPT-E
-This is only for Prompt engineering Training.
+Prompt engineering Daily Dairy
